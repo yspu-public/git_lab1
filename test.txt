@@ -1,6 +1,6 @@
 1. Question: Переведите число 129 из десятичной системы счисления в двоичную
 -
-Answer: 2
+Answer: https://github.com/Microsoft/Git-Credential-Manager-for-Windows/releases/tag/1.20.0
 _______
 2. Question: Число "1000" (в двоичной СС) и "9" (десятиной СС) равны? (да\нет)
 -
